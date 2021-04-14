@@ -3,7 +3,7 @@
 In this project, scraping of covid-19 data is done using the government website and, a built-in voice assistant is built that can answer about the data extracted like cases, recovered and deaths present.
 
 For scraping of data is done by using ParserHub which is a freely available tool.
-Link for the same to download: https://www.parsehub.com/docs/ref/api/v2/
+Link for the same to download: https://www.parsehub.com/quickstart
 
 Website for Scraping Data: https://www.mygov.in/corona-data/covid19-statewise-status/ 
 
