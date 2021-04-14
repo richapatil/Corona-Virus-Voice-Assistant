@@ -10,9 +10,9 @@ import time
 
 #parserhub API data
 
-API_KEY = "t4uJQ5QAwvPw"
-PROJECT_TOKEN = "tdDvhLTQdvw7"
-RUN_TOKEN = "tUwwrScKULy_"
+API_KEY = " {PUT YOUR VALUE} "
+PROJECT_TOKEN = " {PUT YOUR VALUE} "
+RUN_TOKEN = " {PUT YOUR VALUE} "
 
 
 
